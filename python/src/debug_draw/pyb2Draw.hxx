@@ -3,7 +3,7 @@
 #include <pybind11/stl.h>
 #include <iostream>
 #include <array>
-
+#include <limits>
 
 #include "../box2d_wrapper.hpp"
 #include "extended_debug_draw_base.hxx"

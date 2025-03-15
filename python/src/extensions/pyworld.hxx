@@ -4,7 +4,7 @@
 #include "../pyb2WorldCallbacks.hxx"
 #include <memory>
 #include "../debug_draw/extended_debug_draw_base.hxx"
-
+#include <limits>
 
 
 class PyWorld : public b2World
